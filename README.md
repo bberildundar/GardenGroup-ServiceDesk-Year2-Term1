@@ -14,5 +14,6 @@ This project was completed to practice NoSQL and C# knowledge. The database used
 The Service Desk Ticketing System includes features for user management, adding new users, a dashboard for tracking and managing tickets, and archiving tickets for record-keeping purposes.
 
 ## Login Credentials
-Login User: jeff@gg.nl Password: user123
+Login User: jeff@gg.nl Password: user123 
+
 Login IT-Admin: this@gg.nl Password: admin123
