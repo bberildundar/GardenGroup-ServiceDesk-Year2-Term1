@@ -16,4 +16,4 @@ The Service Desk Ticketing System includes features for user management, adding 
 ## Login Credentials
 Login User: jeff@gg.nl Password: user123 
 
-Login IT-Admin: this@gg.nl Password: admin123
+Login IT-Admin: thijs@gg.nl Password: admin123
